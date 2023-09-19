@@ -44,6 +44,7 @@ body {
     text-decoration: none;
 }
 
+/* the large background image of all the people surrounding the desk*/
 .large-group-photo {
     height: 800px;
     width: 100%;
@@ -118,11 +119,13 @@ body {
     font-size: 36px;
 }
 
+/* floats search engine optimization & social media marketing photo to the left*/
 .float-left {
     margin-right: 25px;
     float: left;
 }
 
+/* floats online reputation management image to the right*/
 .float-right {
     margin-left: 25px;
     float: right;
